@@ -24,7 +24,7 @@
         <hr class="mb-2">
 
         <v-card-text>
-          Let Google  determine location. This means sending anonymous location data to Google, even when no apps are running.
+          Let Google  determine This means sending anonymous location data to Google, even when no apps are running.
         </v-card-text>
 
         <v-card-actions>
