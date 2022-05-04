@@ -7,3 +7,5 @@ ____________________
 
 
 
+#1) movies_web_spa_vue2
+video intro: https://youtu.be/t3qANY295Ko
