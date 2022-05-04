@@ -9,3 +9,4 @@ ____________________
 
 # 1) movies_web_spa_vue2
 video intro: https://youtu.be/t3qANY295Ko
+![Screenshot from 2022-05-04 02-06-14](https://user-images.githubusercontent.com/51271834/166749373-00ec9bad-cc16-44b2-8d60-42829901f9ce.png)
