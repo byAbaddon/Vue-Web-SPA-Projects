@@ -8,8 +8,16 @@ ____________________
 
 
 # 1) movies_web_spa_vue2
-#### Using: Vue2, Vuetify2 <br>
+#### Using: vue2, vuetify2 <br>
 #### Video intro: https://youtu.be/t3qANY295Ko
 ![Screenshot from 2022-05-04 02-06-14](https://user-images.githubusercontent.com/51271834/166749373-00ec9bad-cc16-44b2-8d60-42829901f9ce.png)
 
 ![movies_wep_spa_site_pictures](https://user-images.githubusercontent.com/51271834/166797601-86df1760-f94c-466d-aa95-e5dced970e58.png)
+
+# 2) blog_web_spa_vue3
+#### Using: vue3, and ordinary css
+#### No support phone responsibility, maybe someday ;))
+#### video intro: https://youtu.be/KXBntfgg1j4
+![myBlog](https://user-images.githubusercontent.com/51271834/168931590-43d3d8f2-b4ed-4fa3-b474-ea5b451559a6.png)
+
+
