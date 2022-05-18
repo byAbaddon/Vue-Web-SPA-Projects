@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkblog_web_spa_vue3"]=self["webpackChunkblog_web_spa_vue3"]||[]).push([[521],{7521:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var s=u(3396);const a=e=>((0,s.dD)("data-v-4db0df0a"),e=e(),(0,s.Cn)(),e),l=a((()=>(0,s._)("h1",null,"The post was successfully edited !",-1))),t=a((()=>(0,s._)("section",null,null,-1))),d=[l,t];function c(e,n,u,a,l,t){return(0,s.wg)(),(0,s.iD)("div",null,d)}var r={},o=u(89);const _=(0,o.Z)(r,[["render",c],["__scopeId","data-v-4db0df0a"]]);var f=_}}]);
+//# sourceMappingURL=521.81607c0d.js.map

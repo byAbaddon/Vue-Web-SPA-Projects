@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkblog_web_spa_vue3"]=self["webpackChunkblog_web_spa_vue3"]||[]).push([[476],{5476:function(e,n,u){u.r(n),u.d(n,{default:function(){return _}});var l=u(3396);const s=e=>((0,l.dD)("data-v-74bc59ff"),e=e(),(0,l.Cn)(),e),t=s((()=>(0,l._)("h1",null,"The post was successfully deleted !",-1))),c=s((()=>(0,l._)("section",null,null,-1))),a=[t,c];function f(e,n,u,s,t,c){return(0,l.wg)(),(0,l.iD)("div",null,a)}var r={},d=u(89);const o=(0,d.Z)(r,[["render",f],["__scopeId","data-v-74bc59ff"]]);var _=o}}]);
+//# sourceMappingURL=476.39d36614.js.map
