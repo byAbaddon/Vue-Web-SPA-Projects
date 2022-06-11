@@ -21,3 +21,14 @@ ____________________
 ![myBlog](https://user-images.githubusercontent.com/51271834/168931590-43d3d8f2-b4ed-4fa3-b474-ea5b451559a6.png)
 
 
+# 3) cooking-recipes web SPA
+#### Using vue 3 composition and bootstrap
+#### No support phone responsibility, maybe someday ;))
+### Firebase Hosting Preview channels : https://routingbase-21148--cocking-web-spa-3pszg149.web.app/
+#### video intro: https://youtu.be/EQS0DxqJHVE
+![chefMaster](https://user-images.githubusercontent.com/51271834/173125312-a3f46a30-38c5-4aca-8f48-cfa6b55c1a45.png)
+
+
+
+
+
