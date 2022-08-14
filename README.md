@@ -9,6 +9,7 @@ ____________________
 
 # 1) movies_web_spa_vue2
 #### Using: vue2, vuetify2 <br>
+#### Support phone responsibility.
 ### Firebase Hosting Preview channels :
 https://routingbase-21148--movies-web-spa-dqup0lg3.web.app
 #### Video intro: https://youtu.be/t3qANY295Ko
