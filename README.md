@@ -1,6 +1,6 @@
 # Vue-Web-Spa-Projects
 # Web site SPA
-# With using: Vue-2, Vue-3, Vuex, Composition API, Vuetify-2/3...
+# With using: Vue-2, Vue-3, Vuex, Pinia, Composition API, Vuetify-2/3...
 ____________________
 ![proxy-image](https://user-images.githubusercontent.com/51271834/160930634-09821fbe-158a-4d4a-83d3-5305e6b5fb3a.png)
 
@@ -33,7 +33,13 @@ https://routingbase-21148--cocking-web-spa-3pszg149.web.app/
 #### video intro: https://youtu.be/EQS0DxqJHVE
 ![chefMaster](https://user-images.githubusercontent.com/51271834/173125312-a3f46a30-38c5-4aca-8f48-cfa6b55c1a45.png)
 
+# 4) event_web_spa
+#### Using: vue3 composition vuex-pinia and vuetify 3.0 be
+#### Support phone responsibility.
+### Firebase Hosting Preview channels : https://routingbase-21148.web.app
+### video intro: https://youtu.be/4ETHYx_P43Ata
 
+![eventsGroup](https://user-images.githubusercontent.com/51271834/184530333-ede884ee-af89-4f25-9c84-f6f8f3c9c593.png)
 
 
 
