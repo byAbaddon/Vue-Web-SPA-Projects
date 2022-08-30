@@ -39,7 +39,7 @@ const onBtnTrek = (e => {
     <div class="col-md-5">
       <img
         class="home-picture"
-        :src="'../src/assets/images/mountainLogo.png'"
+        src="../assets/images/mountainLogo.jpeg"
       />
     </div>
   </div>
