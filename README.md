@@ -26,7 +26,7 @@ https://routingbase-21148--blog-web-spa-10slu0lb.web.app
 ![myBlog](https://user-images.githubusercontent.com/51271834/168931590-43d3d8f2-b4ed-4fa3-b474-ea5b451559a6.png)
 
 
-# 3) cooking-recipes_spa_vue3_coposition
+# 3) cooking-recipes_spa_vue3_composition
 #### Using vue 3 composition and bootstrap
 #### No support phone responsibility, maybe someday ;))
 ### Firebase Hosting Preview channels :
