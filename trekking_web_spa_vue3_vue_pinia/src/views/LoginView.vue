@@ -66,7 +66,7 @@ const onBtnLogin = e => {
           class="form-control"
           placeholder="Email"
           required
-          value="koko@abv.bg"
+          value=""
         />
         <label for="loginEmail">Email</label>
       </div>
@@ -80,7 +80,7 @@ const onBtnLogin = e => {
           placeholder="Password"
           minlength="6"
           required
-          value="111111"
+          value=""
         />
         <label for="loginPassword">Password</label>
       </div>
