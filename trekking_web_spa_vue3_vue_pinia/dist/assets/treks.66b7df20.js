@@ -1,0 +1,1 @@
+import{D as o,p as l,K as n,W as c,q as i,s as k}from"./index.a0b5c28b.js";let t=[];const h=async()=>{t=[];const s=o(l,"treks"),a=n(s,c("likes","desc"));return(await i(a)).forEach(e=>{let r=Object.assign({},{organizer:e.id},e.data());t.push(r)}),t},u=k("treks",{state:()=>({allTreks:[]}),getters:{},actions:{updateTreks(){h().then(s=>this.allTreks=s)}}});export{u};
