@@ -27,7 +27,7 @@ https://routingbase-21148--blog-web-spa-10slu0lb.web.app
 
 
 # 3) cooking-recipes_spa_vue3_composition
-#### Using vue 3 composition and bootstrap
+#### Using: vue 3 composition and bootstrap
 #### No support phone responsibility, maybe someday ;))
 ### Firebase Hosting Preview channels :
 https://routingbase-21148--cocking-web-spa-3pszg149.web.app/
