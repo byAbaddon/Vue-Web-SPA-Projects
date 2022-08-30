@@ -42,7 +42,7 @@ https://routingbase-21148--cocking-web-spa-3pszg149.web.app/
 ![eventsGroup](https://user-images.githubusercontent.com/51271834/184530333-ede884ee-af89-4f25-9c84-f6f8f3c9c593.png)
 
 # 5) treking_web_spa
-## Using: vue3 composition vuex-pinia and vuetify 3.0 beta + bootstap
+## Using: vue3 composition vuex-pinia and vuetify 3.0 beta + bootstrap
 ## Support phone responsibility.
 ### Firebase Hosting Preview channels : https://
 #### video intro: https://youtu.be/IBSbLYzb8wM
