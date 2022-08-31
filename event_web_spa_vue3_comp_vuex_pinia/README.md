@@ -1,5 +1,5 @@
 # Event_Web_SPA
-### Firebase Hosting Preview channels : https://routingbase-21148.web.app
+### Firebase Hosting channels : https://events-spa.web.app
 ### video intro: https://youtu.be/4ETHYx_P43A
 ## Using: vue3 composition vuex-pinia and vuetify 3.0 beta
 ## Support phone responsibility.
