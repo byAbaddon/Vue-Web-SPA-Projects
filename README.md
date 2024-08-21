@@ -44,3 +44,15 @@ ____________________
 ### Firebase Hosting channels: https://routingbase-21148.web.app
 #### video intro: https://youtu.be/IBSbLYzb8wM
 ![treks](https://user-images.githubusercontent.com/51271834/187416785-5659ad55-b335-4a29-bbb0-ee22ebe0f99b.png)
+
+
+# 6) Game_baze_spa
+## Using: vue3 composition, vuetify3
+#### No support phone responsibility
+### Firebase Hosting channels:  https://game-base-spa.web.app
+#### video intro: https://youtu.be/9yhHVIrmz7M
+![img](https://github.com/user-attachments/assets/97ffa736-828c-4575-bfc9-49a61d37e100)
+![aboutPage](https://github.com/user-attachments/assets/ed6ea6b7-a0ae-43c2-a485-5b6b87c4a7b1)
+
+
+
