@@ -1,6 +1,6 @@
 PROPRIETARY SOFTWARE LICENSE
 
-Copyright (c) 2023 byAbaddon.
+Copyright (c) 2024 byAbaddon.
 
 ATTENTION: This is a legally binding agreement between you licensee and byAbaddon. Please read it carefully before using the software.
 License Grant: The publisher grants you a limited, non-exclusive license to use the software containing this license, provided that you comply with all the terms of this agreement.
