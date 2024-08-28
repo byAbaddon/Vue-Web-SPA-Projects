@@ -1,0 +1,18 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2023 byAbaddon.
+
+ATTENTION: This is a legally binding agreement between you licensee and byAbaddon. Please read it carefully before using the software.
+License Grant: The publisher grants you a limited, non-exclusive license to use the software containing this license, provided that you comply with all the terms of this agreement.
+Prohibition on Copying: You are not allowed to copy, reproduce, or create derivative works of the software without the prior permission of the publisher.
+Prohibition on Sale: You do not have the right to sell, transfer, or distribute the software to third parties unless explicitly permitted in writing by the publisher.
+Intellectual Property: All rights to the software, including copyrights and other intellectual property, remain the property of the publisher.
+Termination of License: In case of a breach of this agreement, your license automatically terminates, and you must cease using the software.
+No Warranties: The software is provided "as is," without any express or implied warranties, including warranties of merchantability and fitness for a particular purpose.
+Limited Liability: The publisher shall not be liable for any direct, indirect, incidental, or special damages arising from the use or inability to use the software.
+Your Agreement: By using the software, you accept the terms of this agreement.
+This source code is protected under international copyright law.
+All rights reserved and protected by the copyright holders.
+This file is confidential and only available to authorized individuals with the permission of the copyright holders.
+If you encounter this file and do not have permission, please contact the copyright holders and delete this file.
+All Rights Reserved
