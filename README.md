@@ -58,7 +58,7 @@ ____________________
 # 7) The_Best_Movies SPA
 ## Using: vue3 composition, vuetify3
 #### Support phone responsibility
-### GitHub Link: https://github.com/byAbaddon/VUE_Best_Movies_Base_Web_SPA/edit/main/README.md
+### GitHub Link: https://github.com/byAbaddon/VUE_Best_Movies_Base_Web_SPA
 ### Firebase Hosting channels: 
 https://the-best-movies-spa-v2.web.app
 ### video intro: 
